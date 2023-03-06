@@ -22,5 +22,5 @@ if enough_teachers(school_roll, teacher_roll):
 else:
     message = f"{school} needs to hire some more teachers so that they can teach {school_roll} students."
 
-# show result
+# show results
 easy_gui.msgbox(message)
