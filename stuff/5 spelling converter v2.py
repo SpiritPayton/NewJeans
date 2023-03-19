@@ -34,3 +34,11 @@ while True:
         break
 
     easy_gui.msgbox("ka kite ano whanau", "baby we ain't got tyme!")
+# fhdfuifjhi3ro sefhriut jwherjkhdsmjndcamefwio4utksejfhprtgio;erjgm,enk lij,snfmsfkjwehikuli3u4li234n23,mrw,menrw,kenrlkjrwjhfieusofiuefoiusef
+wieufiwloeuliwerlkwerjwef,sdzoivqp0i[weiropeirowfd ilkj krfj,er,jfikwushekjfmewfnbscjhgjrhegj jherkjtilerglkdsj ;owqerlkjw,emrmsrgf kuhwemrnfbmnwefbnsedfehwj k,jefj4hrwjehrfkwrkjwhefjh34m4fsma,d,jwefkjwefjwefkjwfkwfhkhhj
+kedkwjef
+weflkijklwejir8o4u38oerufhkjbvm nnxmsrg
+erhfkejrghu4rukjhsvhuwkrhfkzr,iwuurwileulwefkwefhjwukefbkwrjbf
+rglkwrfkjmsjrughrbglwkfwljlewfwew,jrwefwefjwefmwefhmrj
+jkkjerfjhjmvfdfvfdvfdvfdfnvffdbnmvdfbnmbndfvbvndfbvnmdfbvfdvdfnvfdbbdvfnmfdv
+vbnmbmdfvnbfvdbfvdbdfvfdbnfvmfdnmfvfdvmdvnbfbvfdbnmdfvdbfvnvdfbnmdnfbndvbvfdnbfvdnm]
