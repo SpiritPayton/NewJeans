@@ -37,6 +37,7 @@ def play_game():
         for player_name in player_names:
             dice = roll_dice()
             roll_num = i + 1
+            # lol
             message = f"{player_name} Roll {roll_num}: {dice}\ni will let you roll again" \
                       f" even though you should just leave..."
             if not easy_gui.boolbox(message, "Yahtzee!", ["roll again", "stick"]):
