@@ -68,12 +68,12 @@ def arr_format(array, format_option="list", message=""):
 def multiple_collapse(array, resultant=list):
     # make a dictionary of the number of occurrences of each item in the array
     organised = {}
-    # Create a list with the formatted string of each item and its count
+    # create a list with the formatted string of each item and its count
     format_list = []
     for item in set(array):
         format_list.append(f"{item} x{array.count(item)}")
         organised.update({item: array.count(item)})
-    # If resultant is "list", return format_list; otherwise, return organised
+    # if resultant is "list", return format_list; otherwise, return organised
     return format_list if resultant == list else organised
 
 
